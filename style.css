@@ -1,0 +1,10 @@
+.tableau {
+    background-color: sandybrown;
+}
+.table {
+    border: 2px solid black;
+}
+
+th, td, td {
+    border: 1px solid black;
+}
